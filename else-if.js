@@ -1,4 +1,4 @@
-var a = 45;
+var a = 75;
 var b = 75;
 
 if (a > b) {
@@ -7,6 +7,6 @@ if (a > b) {
 else if (a < b) {
     console.log(a + ' is smaller than ' + b);
 }
-else if (a === b) {
+else {
     console.log(a + ' and ' + b + ' is similar');
 }
